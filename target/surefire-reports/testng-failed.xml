@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.ubique.thinkhr.Test.SelTestCase">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.ubique.thinkhr.Test.SelTestCase -->
+      <class name="com.ubique.thinkhr.Test.SanityTest">
+        <methods>
+          <include name="Registration"/>
+        </methods>
+      </class> <!-- com.ubique.thinkhr.Test.SanityTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

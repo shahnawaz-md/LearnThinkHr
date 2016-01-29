@@ -1,0 +1,51 @@
+2015-12-04 15:06:27,101 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:06:27,101 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:06:27,101 INFO  [Log]                                sTestCaseName                                        
+2015-12-04 15:06:27,101 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:06:27,101 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:06:30,641 INFO  [Log] New driver instantiated 
+2015-12-04 15:06:44,552 INFO  [Log] Opening the URL 
+2015-12-04 15:06:49,949 INFO  [Log] Clicking on Login Link 
+2015-12-04 15:06:50,002 INFO  [Log] Clearing Username Textbox 
+2015-12-04 15:06:52,173 INFO  [Log] Entering Username 
+2015-12-04 15:06:52,216 INFO  [Log] Clearing Password Textbox 
+2015-12-04 15:06:54,333 INFO  [Log] Entering Password 
+2015-12-04 15:06:56,392 INFO  [Log] Clicking on RememberMe CheckBox 
+2015-12-04 15:07:07,274 INFO  [Log] Clicking on Login Button 
+2015-12-04 15:07:07,274 INFO  [Log] Login done successfully 
+2015-12-04 15:07:09,351 INFO  [Log] Clicking on My Courses Button 
+2015-12-04 15:07:19,128 INFO  [Log] Clicking on In Progress Courses link 
+2015-12-04 15:07:25,207 INFO  [Log] Clicking on ThinkHr link 
+2015-12-04 15:07:27,285 INFO  [Log] Clicking on My Courses Button 
+2015-12-04 15:07:34,781 INFO  [Log] Clicking on Completed Courses link 
+2015-12-04 15:07:39,935 INFO  [Log] Clicking on ThinkHr link 
+2015-12-04 15:07:39,935 INFO  [Log] MyCourses events performed successfully 
+2015-12-04 15:07:43,883 INFO  [Log] Clicking on LogOut Button 
+2015-12-04 15:07:43,883 INFO  [Log] LogOut done successfully 
+2015-12-04 15:07:47,105 INFO  [Log] Closing the browser 
+2015-12-04 15:07:47,105 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:07:47,105 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:07:47,105 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-12-04 15:07:47,105 INFO  [Log] **************************************************************************************** 
+2015-12-04 15:07:47,105 INFO  [Log] **************************************************************************************** 
+2016-01-27 19:25:10,460 INFO  [Log] **************************************************************************************** 
+2016-01-27 19:25:10,497 INFO  [Log] **************************************************************************************** 
+2016-01-27 19:25:10,498 INFO  [Log]                                sTestCaseName                                        
+2016-01-27 19:25:10,498 INFO  [Log] **************************************************************************************** 
+2016-01-27 19:25:10,498 INFO  [Log] **************************************************************************************** 
+2016-01-27 19:25:21,982 INFO  [Log] New driver instantiated 
+2016-01-27 19:25:30,806 INFO  [Log] Opening the URL 
+2016-01-27 19:25:34,010 INFO  [Log] Clicking on Menu Button 
+2016-01-27 19:25:43,815 INFO  [Log] Clicking on SignUp Button 
+2016-01-27 19:25:46,044 INFO  [Log] Entering Company Authorization Key 
+2016-01-27 19:25:48,121 INFO  [Log] Clicking on Unmask Checkbox of Company Authorization Key 
+2016-01-27 19:25:48,170 INFO  [Log] Scrolling down the page 
+2016-01-27 19:25:50,268 INFO  [Log] Clicking on Continue Button 
+2016-01-27 19:25:52,403 INFO  [Log] Entering First Name 
+2016-01-27 19:25:54,510 INFO  [Log] Entering Last Name 
+2016-01-27 19:25:56,696 INFO  [Log] Entering Email Id 
+2016-01-27 19:25:56,710 INFO  [Log] Scrolling down the page 
+2016-01-27 19:25:58,844 INFO  [Log] Entering Create Password 
+2016-01-27 19:26:00,924 INFO  [Log] Clicking on Unmask Checkbox of Create Password 
+2016-01-27 19:26:03,066 INFO  [Log] Entering Confirm Password 
+2016-01-27 19:26:03,227 INFO  [Log] Registration not done successfully 
